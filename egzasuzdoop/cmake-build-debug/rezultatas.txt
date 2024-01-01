@@ -1,0 +1,165 @@
+1936: 2
+a: 4
+analitinę: 2
+angl: 2
+apie: 2
+aprašymą: 2
+atitinkantis: 3
+atlikti: 2
+babidžas: 2
+babidžo: 3
+bandė: 2
+bei: 2
+buvo: 12
+būti: 2
+computer: 2
+cūzės: 3
+dar: 3
+darbo: 2
+daug: 2
+delniniai: 2
+dž: 2
+elektroninis: 3
+eniac: 4
+gali: 3
+ir: 16
+istorija: 2
+iš: 4
+jau: 2
+jav: 2
+kad: 3
+kaip: 8
+kas: 2
+kompiuteriai: 13
+kompiuterio: 5
+kompiuteris: 16
+kompiuterių: 3
+kuri: 2
+kurie: 3
+laikyti: 2
+m: 17
+mašina: 6
+mašinai: 3
+mašinos: 5
+mašiną: 3
+mechaninis: 2
+metų: 2
+ne: 4
+nuo: 4
+o: 3
+pagal: 2
+paskirties: 2
+pirmas: 2
+pirmasis: 5
+pirmieji: 3
+pirmojo: 2
+po: 2
+prietaisas: 9
+programavimo: 2
+programuojamas: 5
+programų: 2
+reikalavimus: 2
+samprata: 2
+savo: 3
+skaitmeniniai: 2
+skaičiavimams: 4
+skaičiavimo: 6
+skaičiavimus: 2
+skirtumų: 2
+sukurti: 6
+sukurto: 2
+tai: 3
+tik: 3
+tiuringo: 10
+to: 3
+tuo: 2
+turėjo: 4
+veikimo: 2
+xx: 3
+yra: 6
+Č: 2
+įrenginiai: 3
+įrenginys: 2
+Šiuolaikiniai: 2
+–: 7
+
+Cross-Reference Lentelė:
+1936: 44 47 
+a: 6 36 47 
+analitinę: 30 41 
+apie: 26 30 
+aprašymą: 46 49 
+atitinkantis: 46 49 
+atlikti: 1 38 
+babidžas: 30 41 
+babidžo: 30 41 49 
+bandė: 26 28 
+bei: 1 32 
+buvo: 26 32 41 44 49 
+būti: 26 41 
+computer: 36 49 
+cūzės: 32 49 
+dar: 26 36 41 
+darbo: 1 16 
+daug: 1 49 
+delniniai: 21 22 
+elektroninis: 43 44 49 
+eniac: 10 32 49 
+gali: 1 26 
+ir: 1 6 11 28 30 32 36 38 41 44 49 
+istorija: 25 26 
+iš: 30 36 44 49 
+jau: 41 49 
+jav: 32 49 
+kad: 26 30 49 
+kaip: 26 35 40 41 43 44 46 49 
+kas: 47 49 
+kompiuteriai: 11 14 15 18 19 22 32 38 44 49 
+kompiuterio: 30 34 49 
+kompiuteris: 1 4 6 10 24 32 35 36 40 41 43 44 46 49 
+kompiuterių: 1 26 47 
+kuri: 1 30 
+kurie: 1 38 44 
+m: 8 26 28 30 32 41 44 47 49 
+mašina: 1 30 41 47 49 
+mašinai: 41 49 
+mašinos: 46 49 
+mašiną: 30 41 49 
+mechaninis: 8 41 
+metų: 10 26 
+ne: 1 32 38 44 
+nuo: 1 26 28 49 
+o: 32 41 49 
+pagal: 11 49 
+pirmas: 26 32 
+pirmasis: 41 49 
+pirmieji: 26 32 44 
+po: 26 49 
+prietaisas: 35 40 41 43 44 46 47 49 
+programavimo: 30 44 
+programuojamas: 40 41 43 44 
+programų: 38 41 
+reikalavimus: 41 49 
+samprata: 30 34 
+savo: 1 30 44 
+skaitmeniniai: 28 44 
+skaičiavimams: 26 32 38 
+skaičiavimo: 1 26 28 35 41 49 
+skaičiavimus: 1 36 
+skirtumų: 30 41 
+sukurti: 26 28 30 32 41 
+sukurto: 26 28 
+tai: 41 47 49 
+tik: 38 49 
+tiuringo: 41 46 47 49 
+to: 26 30 49 
+tuo: 30 41 
+turėjo: 30 41 44 47 
+veikimo: 1 38 
+xx: 6 36 44 
+yra: 26 44 49 
+Č: 30 41 
+įrenginiai: 21 26 28 
+įrenginys: 8 26 
+Šiuolaikiniai: 38 49 
+–: 1 30 38 47 49 
