@@ -1,0 +1,49 @@
+Kompiuteris – skaičiavimo mašina, skirta priimti, apdoroti ir pateikti duomenis.[1][2] Kompiuteris gali turėti dirbtinį intelektą, bet ne visada jis būna teisus. Įrenginys kiekvieną savo veikimo sekundę atlieka skaičiavimus, kurie pasireiškia darbo atlikimu. Kompiuterių galimybės bei įvairovė priklauso nuo programinės įrangos, kuri gali atlikti daug operacijų.
+
+
+Nešiojamas asmeninis Samsung kompiuteris
+
+Tipiškas XX a. pabaigos stalinis kompiuteris (monitorius ir klaviatūra prijungiami atskirai)
+
+1879 m. mechaninis sudėties įrenginys
+
+1943 metų kompiuteris Eniac
+Pagal galimybes ir taikymo sritis kompiuteriai grupuojami šias klases:
+
+superkompiuteriai
+universalieji kompiuteriai
+mini kompiuteriai
+darbo stotys
+mikrokompiuteriai
+namų kompiuteriai
+asmeniniai kompiuteriai
+serveriai
+delniniai įrenginiai:
+delniniai kompiuteriai
+išmanusis telefonas
+planšetinis kompiuteris
+Istorija
+Pirmieji skaičiavimo įrenginiai (abakai) buvo sukurti dar 3000 metų prieš mūsų erą. Yra žinoma, kad mechaninius įrenginius, skirtus navigaciniams skaičiavimams, bandė kurti senovės graikai. Šiuolaikinių kompiuterių istorija gali būti pradedama nuo 1502 m. vokiečių laikrodininko Peterio Henleino sukurto laikrodžio, veikusio kaip 12 skilčių sumatorius.[reikalingas šaltinis] Pirmas matematiniams skaičiavimams skirtas įrenginys buvo apie 1622 m. Viljamo Autredo sukurta logaritminė liniuotė (primityvus analoginis kompiuteris),[3] praėjus mažiau nei dešimtmečiui po to , kai Džonas Neperis atrado logaritmus.[4]
+
+Skaitmeniniai (diskretiniai) skaičiavimo įrenginiai labiau tyrinėti pradedami nuo 1623 m. Vilhelmo Šikardo sukurto aritmetinio sumatoriaus. Tobulesnius sumatorius bandė sukurti daugelis renesanso mokslininkų, įskaitant B. Paskalį ir G. Leibnicą.
+
+Pirmuoju įtaisu, kurį galima laikyti kompiuteriu dabartine samprata, reikėtų laikyti anglų matematiko ir išradėjo, kompiuterio tėvu tituluojamo[5] Čarlzo Babidžo pasiūlymą (1822 m.) sukurti Skirtumų mašiną.[6] Ji iš kitų to meto skaičiuotuvų išsiskyrė tuo, kad savo mechanizme turėjo užprogramuotos matematikos taisykles. 1834–1840 m. Č. Babidžas sukuria ir universalią programuojamą analitinę mašiną, kuri liko neįgyvendinta. Su šia mašina siejama ir programavimo istorijos pradžia – Lordo Bairono duktė, grafienė Augusta Ada Lovelace paskelbia kelis veikalus apie šio kompiuterio programavimą.
+
+Pirmieji elektromechaniniai kompiuteriai buvo sukurti Vokietijoje (1936–1941 m. Konrado Cūzės sukurti kompiuteriai Z1, Z2 ir Z3)[7] bei JAV (1939–1941 m. Džono Atanasofo elektroniniai sumatoriai).[8] Pirmas universalus, praktiniams skaičiavimams panaudotas skaitmeninis kompiuteris (beje, ne dvejetainis, o dešimtainis) buvo ENIAC (1946 m., JAV)[9]
+
+Kompiuterio samprata
+Kompiuteris kaip skaičiavimo priemonė (prietaisas)
+Žodis kompiuteris (angl. computer) kilęs iš žodžio angl. compute skaičiuoti. XVIII–XIX a. matematines lenteles (logaritmų ir trigonometrinių funkcijų) sudarinėjo ištisos matematikų komandos naudodamos primityvias priemones. Kadangi tie žmonės atlikdavo skaičiavimus, juos vadino kompiuteriais. Šiuo terminu įvardijama pareigybė vis dar egzistavo ir XX a. penktajame dešimtmetyje.
+
+Šiuolaikiniai kompiuteriai naudojami ne tik skaičiavimams atlikti, tačiau daugelio programų veikimo pagrindas – matematiniai skaičiavimai, kurie atliekami ir žiūrint filmą ar klausant muzikos.
+
+Kompiuteris kaip programuojamas prietaisas
+Šiais laikais kompiuteris dažniausiai suprantamas kaip programuojamas prietaisas. Pirmasis mechaninis programuojamas prietaisas pasirodė dar 1801 m. Tai buvo Džozefo-Mari Žakardas (Joseph-Marie Jacquard) sukurtos žakardinės audimo staklės, kurios buvo valdomos perfokortomis. 1834 m. Č. Babidžas aprašė analitinę mašiną. Joje programų ir duomenų įvedimui taip pat turėjo būti naudojamos perfokortos. O Babidžo suprojektuota Skirtumų skaičiavimo mašina įrodo, jog jau tuo metu buvo reali galimybė sukurti pirmąjį įtaisą, tenkinantį reikalavimus Tiuringo mašinai.
+
+Kompiuteris kaip programuojamas elektroninis prietaisas
+Kompiuteris paprastai įsivaizduojamas kaip programuojamas elektroninis prietaisas. Tokie kompiuteriai buvo pradėti projektuoti XX amžiaus pirmoje pusėje. Pirmieji elektriniai kompiuteriai buvo analoginiai (ne skaitmeniniai) kompiuteriai. Vienas iš pavyzdžių yra vandens integratorius (pagamintas 1936 m.). 1938 m. Konradas Cūzė sukonstravo savo pirmuosius Z serijos kalkuliatorius, kurie turėjo atmintį ir riboto programavimo galimybę.
+
+Kompiuteris kaip prietaisas, atitinkantis Tiuringo mašinos aprašymą
+A. Turingo darbai turėjo didelę įtaką kompiuterių vystymuisi. 1936 m. jo paskelbtame straipsnyje aprašoma tai kas dabar vadinama Tiuringo mašina – grynai teorinis prietaisas išrastas formalizuojant algoritmo vykdymo terminą.
+
+Šiuolaikiniai kompiuteriai yra atitinkantys Tiuringo mašiną (Turing – complete). Iš esmės tas atitikimas yra riba, skirianti bendrosios – paskirties kompiuterius nuo specialiosios – paskirties (skirtų spręsti tik specifinius uždavinius, kokie buvo ankstesni prietaisai) mašinų. Būtent dėl šios priežasties daug kas atitikimą Tiuringo mašinai laiko kriterijumi beieškant pirmojo arba seniausio kompiuterio. Ir pirmasis išskirtinesnis, atitinkantis Tiuringo mašinos aprašymą, yra 1945 m. Dž. Ekerto ir Dž. Moučlio sukurtas elektroninis kompiuteris ENIAC (Electronic Numerical Integrator and Computer). Kiek anksčiau 1944 m. JAV H. Aikeno pagaminta elektromechaninė skaičiavimo mašina 'Mark-1' neatitinka Tiuringo mašinos. Visgi, nepaisant to, kad ENIAC yra pirmasis kompiuteris, suprojektuotas ir naudotas kaip Tiuringo mašina, pirmojo kompiuterio klausimas pagal šį kriterijų išlieka diskutuotinas: Babidžo mechaninės analitinės mašinos projektas buvo pirmasis atitinkantis Tiuringo mašinos kriterijus, o Cūzės Z3 modelis buvo pirmasis veikiantis prietaisas, tenkinantis reikalavimus Tiuringo mašinai (tai įrodyta tik 1998 m., jau po Cūzės mirties).
