@@ -25,7 +25,7 @@ planšetinis kompiuteris
 Istorija
 Pirmieji skaičiavimo įrenginiai (abakai) buvo sukurti dar 3000 metų prieš mūsų erą. Yra žinoma, kad mechaninius įrenginius, skirtus navigaciniams skaičiavimams, bandė kurti senovės graikai. Šiuolaikinių kompiuterių istorija gali būti pradedama nuo 1502 m. vokiečių laikrodininko Peterio Henleino sukurto laikrodžio, veikusio kaip 12 skilčių sumatorius.[reikalingas šaltinis] Pirmas matematiniams skaičiavimams skirtas įrenginys buvo apie 1622 m. Viljamo Autredo sukurta logaritminė liniuotė (primityvus analoginis kompiuteris),[3] praėjus mažiau nei dešimtmečiui po to , kai Džonas Neperis atrado logaritmus.[4]
 
-Skaitmeniniai (diskretiniai) skaičiavimo įrenginiai labiau tyrinėti pradedami nuo 1623 m. Vilhelmo Šikardo sukurto aritmetinio sumatoriaus. Tobulesnius sumatorius bandė sukurti daugelis renesanso mokslininkų, įskaitant B. Paskalį ir G. Leibnicą.
+Skaitmeniniai (diskretiniai) skaičiavimo įrenginiai labiau tyrinėti pradedami nuo 1623 m.  https://www.vu.lt/ Vilhelmo Šikardo sukurto aritmetinio sumatoriaus. Tobulesnius sumatorius bandė sukurti daugelis renesanso mokslininkų, įskaitant B. Paskalį ir G. Leibnicą.
 
 Pirmuoju įtaisu, kurį galima laikyti kompiuteriu dabartine samprata, reikėtų laikyti anglų matematiko ir išradėjo, kompiuterio tėvu tituluojamo[5] Čarlzo Babidžo pasiūlymą (1822 m.) sukurti Skirtumų mašiną.[6] Ji iš kitų to meto skaičiuotuvų išsiskyrė tuo, kad savo mechanizme turėjo užprogramuotos matematikos taisykles. 1834–1840 m. Č. Babidžas sukuria ir universalią programuojamą analitinę mašiną, kuri liko neįgyvendinta. Su šia mašina siejama ir programavimo istorijos pradžia – Lordo Bairono duktė, grafienė Augusta Ada Lovelace paskelbia kelis veikalus apie šio kompiuterio programavimą.
 
@@ -33,7 +33,7 @@ Pirmieji elektromechaniniai kompiuteriai buvo sukurti Vokietijoje (1936–1941 m
 
 Kompiuterio samprata
 Kompiuteris kaip skaičiavimo priemonė (prietaisas)
-Žodis kompiuteris (angl. computer) kilęs iš žodžio angl. compute skaičiuoti. XVIII–XIX a. matematines lenteles (logaritmų ir trigonometrinių funkcijų) sudarinėjo ištisos matematikų komandos naudodamos primityvias priemones. Kadangi tie žmonės atlikdavo skaičiavimus, juos vadino kompiuteriais. Šiuo terminu įvardijama pareigybė vis dar egzistavo ir XX a. penktajame dešimtmetyje.
+Žodis kompiuteris (angl. computer) kilęs iš žodžio angl. compute skaičiuoti. XVIII–XIX a. www.vu.lt matematines lenteles (logaritmų ir trigonometrinių funkcijų) sudarinėjo ištisos matematikų komandos naudodamos primityvias priemones. Kadangi tie žmonės atlikdavo skaičiavimus, juos vadino kompiuteriais. Šiuo terminu įvardijama pareigybė vis dar egzistavo ir XX a. penktajame dešimtmetyje.
 
 Šiuolaikiniai kompiuteriai naudojami ne tik skaičiavimams atlikti, tačiau daugelio programų veikimo pagrindas – matematiniai skaičiavimai, kurie atliekami ir žiūrint filmą ar klausant muzikos.
 

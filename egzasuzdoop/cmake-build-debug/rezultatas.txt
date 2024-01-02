@@ -163,3 +163,7 @@ yra: 26 44 49
 įrenginys: 8 26 
 Šiuolaikiniai: 38 49 
 –: 1 30 38 47 49 
+
+Rasti URL'ai:
+https://www.vu.lt/
+www.vu.lt
